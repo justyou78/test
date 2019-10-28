@@ -1,1 +1,3 @@
-init
+function(){
+	return 'common';
+}
